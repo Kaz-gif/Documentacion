@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        El backlog se almacena en una herramienta de gestión de proyectos como Trello, Asana o Jira para facilitar su seguimiento.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Kaz-gif/ACT-INT-Lopez-Brian.git"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          My github
         </a>
       </header>
     </div>

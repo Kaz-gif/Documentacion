@@ -1,5 +1,6 @@
 SPRINT CODE IS LOCATED AT "src/app.js"
 
+Link to trello: https://trello.com/invite/b/678eb1661480ee16c6e4262c/ATTIeb17017456b510b9392dab1117274fb734AB2F0E/actividad-2
 
 # Getting Started with Create React App
 

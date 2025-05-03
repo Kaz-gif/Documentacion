@@ -1,3 +1,5 @@
+![Alt text]("\my-app\Documentacion\Screenshot 2025-05-02 at 20-49-33 Create Next App.png")
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

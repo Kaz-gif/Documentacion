@@ -1,4 +1,6 @@
-![Alt text]("\my-app\Documentacion\Screenshot 2025-05-02 at 20-49-33 Create Next App.png")
+![Screenshot 2025-05-02 at 20-49-33 Create Next App](https://github.com/user-attachments/assets/17fdf431-0492-4618-9a8a-c9db364d4b3c)
+
+El codigo se encuentra en: src/app/ 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

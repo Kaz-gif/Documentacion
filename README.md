@@ -1,4 +1,5 @@
-![Screenshot 2025-05-02 at 20-49-33 Create Next App](https://github.com/user-attachments/assets/17fdf431-0492-4618-9a8a-c9db364d4b3c)
+
+![Screenshot_11-5-2025_141820_](https://github.com/user-attachments/assets/5de2513f-abaa-4108-afdf-7cece52e44fe)
 
 El codigo se encuentra en: src/app/ 
 
